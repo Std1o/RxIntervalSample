@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RxIntervalSample</string>
+
+    <string name="doSomeWork">doSomeWork</string>
 </resources>
